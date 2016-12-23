@@ -1,0 +1,22 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "my first blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wm219/myblog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "brook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wm219/myblog/issues"
+  },
+  "homepage": "https://github.com/wm219/myblog#readme"
+}
